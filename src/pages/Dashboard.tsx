@@ -176,7 +176,26 @@ const Dashboard = () => {
               <Camera className="w-4 h-4 mr-2" />
               Live Camera Feeds
             </Button>
-            <Button variant="outline" className="w-full justify-start">
+            <Button 
+              variant="outline" 
+              className="w-full justify-start"
+              onClick={() => {
+                // Simulate emergency broadcast
+                const broadcastMessage = prompt("Enter emergency broadcast message:");
+                if (broadcastMessage) {
+                  alert(`Emergency Broadcast Sent: "${broadcastMessage}"`);
+                  // Add new critical alert
+                  const emergencyAlert = {
+                    id: Date.now(),
+                    type: "critical",
+                    message: `Emergency Broadcast: ${broadcastMessage}`,
+                    time: "Just now",
+                    location: "All Zones"
+                  };
+                  setAlerts(prev => [emergencyAlert, ...prev.slice(0, 4)]);
+                }
+              }}
+            >
               <Bell className="w-4 h-4 mr-2" />
               Emergency Broadcast
             </Button>
