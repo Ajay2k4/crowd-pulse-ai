@@ -14,21 +14,34 @@ With my team, we built "Project Drishti" – an AI-powered situational awareness
 
 🧠 The Tech Behind Project Drishti
 
+
  👣 Sensor Mats + BLE/Wi-Fi Sniffers track foot traffic in real time without invading privacy
+ 
  📸 CCTV & Drone feeds analyzed via Vertex AI Vision for anomaly detection
+ 
  📈 Vertex AI Forecasting anticipates surges before they happen
+ 
  📲 Firebase + Gemini Pro handle alerts, live summaries, and secure mobile notifications
+ 
  📍 Google Maps API enables smart dispatching of on-ground responders
+ 
  📊 Unified Command Dashboard + field responder app deliver real-time control and communication
+ 
  
 
 
 🤖 Agentic Architecture – Our 5 AI Agents
+
 🔹 Bottleneck Prediction Agent – Uses Vertex AI Vision + Forecasting to analyze crowd flow and predict congestion 15–20 minutes in advance.
+
 🔹 Anomaly Detection Agent – Leverages Gemini multimodal models to detect visual anomalies like smoke, fire, panic surges.
+
 🔹 Situational Summary Agent – Uses Gemini Pro + Vertex AI Agent Builder to convert multi-source alerts into natural language briefings on command.
+
 🔹 Dispatch Agent – Built with Firebase + Google Maps API, it auto-routes responders in real-time with GPS and traffic-aware directions.
+
 🔹 Lost and Found Agent – Combines Vertex AI Vision + OCR to match missing person images with live video and found reports for recovery assistance.
+
  
 
 
