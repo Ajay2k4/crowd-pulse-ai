@@ -5,6 +5,13 @@
 **URL**: https://lovable.dev/projects/ce8a9042-126f-4e48-816e-39e5611ebe4d
 
 
+<img width="1919" height="835" alt="Screenshot 2025-07-27 050625" src="https://github.com/user-attachments/assets/fd8510d9-927e-4221-bccc-c8b85976a969" />
+
+
+
+
+
+
 **Use GitHub Codespaces**
 
 - Navigate to the main page of your repository.
