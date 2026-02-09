@@ -14,11 +14,17 @@ With my team, we built "Project Drishti" – an AI-powered situational awareness
 
 🧠 The Tech Behind Project Drishti
 ✅ 👣 Sensor Mats + BLE/Wi-Fi Sniffers track foot traffic in real time without invading privacy
+
  ✅ 📸 CCTV & Drone feeds analyzed via Vertex AI Vision for anomaly detection
+ 
  ✅ 📈 Vertex AI Forecasting anticipates surges before they happen
+ 
  ✅ 📲 Firebase + Gemini Pro handle alerts, live summaries, and secure mobile notifications
+ 
  ✅ 📍 Google Maps API enables smart dispatching of on-ground responders
+ 
  ✅ 📊 Unified Command Dashboard + field responder app deliver real-time control and communication
+ 
 
 
 🤖 Agentic Architecture – Our 5 AI Agents
