@@ -12,6 +12,18 @@ This wasn’t just another hackathon — it was a deep dive into the future of i
 With my team, we built "Project Drishti" – an AI-powered situational awareness system designed to prevent stampedes and improve public safety at high-density events like festivals, religious gatherings, and rallies.
 
 
+ 
+ 
+
+
+
+
+ 
+
+
+<img width="1919" height="835" alt="Screenshot 2025-07-27 050625" src="https://github.com/user-attachments/assets/fd8510d9-927e-4221-bccc-c8b85976a969" />
+
+
 🧠 The Tech Behind Project Drishti
 
 
@@ -26,8 +38,8 @@ With my team, we built "Project Drishti" – an AI-powered situational awareness
  📍 Google Maps API enables smart dispatching of on-ground responders
  
  📊 Unified Command Dashboard + field responder app deliver real-time control and communication
- 
- 
+
+<img width="1918" height="853" alt="Screenshot 2025-07-27 050751" src="https://github.com/user-attachments/assets/8845f0a6-fe52-4b14-8a54-1fec2287f41e" />
 
 
 🤖 Agentic Architecture – Our 5 AI Agents
@@ -41,17 +53,6 @@ With my team, we built "Project Drishti" – an AI-powered situational awareness
 🔹 Dispatch Agent – Built with Firebase + Google Maps API, it auto-routes responders in real-time with GPS and traffic-aware directions.
 
 🔹 Lost and Found Agent – Combines Vertex AI Vision + OCR to match missing person images with live video and found reports for recovery assistance.
-
- 
-
-
-<img width="1919" height="835" alt="Screenshot 2025-07-27 050625" src="https://github.com/user-attachments/assets/fd8510d9-927e-4221-bccc-c8b85976a969" />
-
-.
-
-<img width="1918" height="853" alt="Screenshot 2025-07-27 050751" src="https://github.com/user-attachments/assets/8845f0a6-fe52-4b14-8a54-1fec2287f41e" />
-
-.
 
 <img width="1909" height="808" alt="Screenshot 2025-07-27 050805" src="https://github.com/user-attachments/assets/66c5669a-af50-4bbb-bfc0-1d81c4eef4fb" />
 
